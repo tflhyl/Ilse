@@ -1,0 +1,10 @@
+[ilse]
+API_TOKEN = 
+PROJECT_ID = 
+
+[po]
+FORMAT = po
+LANGUAGES = en,id,ms,zh_TW,zh_HK
+FILES_DIR = locale/%LANG_ISO%/LC_MESSAGES
+FILES_NAME = messages.%FORMAT%
+FILES_DIR_MAP = en:en_US,zh_TW:zh-Hant,zh_HK:zh-Hant-HK
